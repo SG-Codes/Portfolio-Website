@@ -29,3 +29,25 @@
     background-color: #2F2Fa2;
     color: white;
 }
+
+.Heading {
+    font-size: 3.4rem;
+    font-family: 'Sansita Swashed', cursive;
+    color: #f64c72;
+}
+
+.ProjectTitle {
+    color: #f64c72;
+}
+
+.parallax {
+    background-image: url('./assets/images/Background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.experience {
+    border-radius: 16px !important;
+}
