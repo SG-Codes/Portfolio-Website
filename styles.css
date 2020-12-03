@@ -1,0 +1,31 @@
+.navbar-custom {
+    background-color: #2F2Fa2;
+}
+
+.navbar-custom .navbar-brand {
+    color: white;
+}
+
+.navbar-custom .navbar-collapse .navbar-nav .nav-item .nav-link {
+    color: white;
+}
+
+.navbar-custom .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
+    color: black !important;
+}
+
+.HeadImage {
+    background-color: #2F2Fa2;
+    height: 90vh;
+}
+
+#image {
+    border-radius: 200px;
+    height: 300px;
+    width: 300px;
+}
+
+.Intro {
+    background-color: #2F2Fa2;
+    color: white;
+}
