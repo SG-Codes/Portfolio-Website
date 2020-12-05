@@ -1,3 +1,7 @@
+* {
+    scroll-behavior: smooth;
+}
+
 .navbar-custom {
     background-color: #2F2Fa2;
 }
@@ -50,4 +54,36 @@
 
 .experience {
     border-radius: 16px !important;
+}
+
+.Details {
+    font-size: 1.4rem;
+}
+
+.ContactForm {
+    border: 1px solid gray;
+    border-radius: 16px;
+}
+
+.field {
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: #2F2Fa2;
+}
+
+.Icon {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    margin-left: 16px;
+    margin-top: 7px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
 }
